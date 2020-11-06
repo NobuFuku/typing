@@ -11,6 +11,8 @@ var textLists = [
     'Good morning',
     'I am Japanese',
     'Let it be'
+    'aaa'
+    'bbbbb'
 ];
 var checkTexts = [];
 
@@ -51,3 +53,5 @@ function keyDown(e) {
         if(!checkTexts.length) createText();
     }
 }
+
+
